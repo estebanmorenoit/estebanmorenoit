@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban Moreno</h1>
 <h3 align="center">DevOps Engineer ♾️ based in London</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanmorenoit&label=Profile%20views&color=0e75b6&style=flat" alt="estebanmorenoit" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanmorenoit" alt="estebanmorenoit" /></a> </p>
 
 - 🔭 I’m currently working on [Terraform Beginner Bootcamp 2023](https://github.com/estebanmorenoit/terraform-beginner-bootcamp-2023)
